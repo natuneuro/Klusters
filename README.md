@@ -14,9 +14,9 @@ For more information about this software please read:
 
 ## Compile guide
 
-  1. Install [LibNeurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compilling Neuroscope 
+  1. Install [LibNeurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compilling Klusters 
   
-  2. Go to `/Neuroscope` directory and type:
+  2. Go to `/Klusters` directory and type:
   ```
   mkdir build
   cd build
